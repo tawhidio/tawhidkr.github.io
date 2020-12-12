@@ -7,15 +7,16 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          나의 머신러닝과 딥러닝 공간<br/>
+          My Machine Learning and Deep Learning Space 
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://https://tawhidkr.github.io/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          My Speace
         </a>
       </header>
     </div>
