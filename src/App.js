@@ -7,8 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          나의 머신러닝과 딥러닝 공간<br/>
-          My Machine Learning and Deep Learning Space 
+          나의 머신러닝과 딥러닝 공간.<br/>
+          My Machine Learning and Deep Learning Space.
         </p>
         <a
           className="App-link"
