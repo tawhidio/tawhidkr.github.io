@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Routes from "./components/Routes";
+import Links from "./blog/links";
 
 function App() {
   return (
@@ -12,35 +12,7 @@ function App() {
           <br />
           My Machine Learning and Deep Learning Space.
         </p>
-        <a
-          className="App-link"
-          href="https://tawhidkr.github.io/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          [Github] : tawhidkr.github.io
-        </a>
-        <br />
-
-        <a
-          className="App-link"
-          href="https://velog.io/@sidcode"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          [velog] : velog.io/@sidcode
-        </a>
-        <br />
-
-        <a
-          className="App-link"
-          href="https://sidcode.medium.com/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          [medium] : sidcode.medium.com
-        </a>
-        <Routes />
+        <Links />
       </header>
     </div>
   );
