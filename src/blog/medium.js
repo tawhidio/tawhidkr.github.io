@@ -5,7 +5,7 @@ function medium() {
     <div>
       <a
         className="App-link"
-        href="https://sidcode.medium.com/1-%EC%9C%88%EB%8F%84%EC%9A%B0-%ED%84%B0%EB%AF%B8%EB%84%90%EC%97%90%EC%84%9C-%ED%8A%B9%EC%A0%95-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%99%80-%EA%B2%BD%EB%A1%9C-%EC%84%A4%EC%A0%95-f73ad55f4dad"
+        href="https://sidcode.medium.com/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B8%B0%EC%B4%88-%EC%88%98%ED%95%99-%EB%B3%80%EC%88%98%EC%99%80-%EC%83%81%EC%88%98-f5122184bad2"
         target="_blank"
         rel="noopener noreferrer"
       >

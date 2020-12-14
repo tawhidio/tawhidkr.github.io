@@ -4,7 +4,7 @@ import Routes from "../components/Routes";
 function Links() {
   return (
     <div>
-      <table className="App-body">
+      <table>
         <tr>
           <td>
             <a
@@ -43,7 +43,7 @@ function Links() {
         </tr>
         <tr>
           <td>
-            <Routes />
+            {/* <Routes /> */}
           </td>
         </tr>
       </table>

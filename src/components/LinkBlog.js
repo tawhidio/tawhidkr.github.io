@@ -5,10 +5,10 @@ function LinkBlog() {
   return (
     <div>
       <div>
-        <Link to="/velog">Velog</Link>
+        <Link to="/velog" className="App-link">Velog</Link>
       </div>
       <div>
-        <Link to="/medium">Medium</Link>
+        <Link to="/medium" className="App-link">Medium</Link>
       </div>
     </div>
   );
