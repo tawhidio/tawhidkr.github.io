@@ -10,9 +10,9 @@ function App() {
         <p>
           <div className="App-body">
             <p>
-              <b>나의 다차원 공간 My Multidimensional Space</b>
+              <b>나의 다차원 공간 - My Multidimensional Space</b>
               <br />
-              <b>나는 아직 늦지 않았어, 할 수 있다.!!</b>
+              <b>나는 아직 늦지 않았어, 할 수 있다.!</b>
             </p>
             <table>
               <tr>
@@ -24,6 +24,7 @@ function App() {
                 <td></td>
               </tr>
             </table>
+            <br />
             <Links />
           </div>
         </p>
