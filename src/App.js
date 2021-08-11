@@ -12,7 +12,7 @@ function App() {
             <p>
               <b>나의 다차원 공간 - My Multidimensional Space</b>
               <br />
-              <b>나는 아직 늦지 않았어, 할 수 있다.!</b>
+              <b>나와 나의 가족들의 행복을 위해.!</b>
             </p>
             <table>
               <tr>
