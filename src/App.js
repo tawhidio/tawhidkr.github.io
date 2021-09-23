@@ -10,22 +10,23 @@ function App() {
         <p>
           <div className="App-body">
             <p>
-              <b>나의 다차원 공간 - My Multidimensional Space</b>
+              <b>Tawhid (South Korea)</b>
               <br />
-              <b>나와 나의 가족들의 행복을 위해.!</b>
+              <br />
+              <b>Tawhid, don't be cowardly.</b>
             </p>
             <table>
               <tr>
                 <td>
-                  <li> 머신러닝과 딥러닝 공간.</li>
-                  <li> 앱 개발</li>
-                  <li> 블록체인</li>
+                  <li> Machine learning and Deep learning </li>
+                  <li> App development </li>
+                  <li> Blockchain</li>
                 </td>
                 <td></td>
               </tr>
             </table>
             <br />
-            <Links />
+            {/* <Links /> */}
           </div>
         </p>
       </header>
